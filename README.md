@@ -10,6 +10,7 @@
 
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/)
+- Install the low even version like 20.19.4
 
 ## Setting Up
 ### 1. Clone/Download the Repository
